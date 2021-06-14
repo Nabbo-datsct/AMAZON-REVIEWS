@@ -2,7 +2,7 @@
 
 # DATASET: AMAZON REVIEWS
 Link: https://www.kaggle.com/bittlingmayer/amazonreviews
-Also, you can find the dataset in this repository under the file named "DATASET".
+Also, you can find the dataset in this repository under the folder named "DATASET".
 
 # OBJECTIVES:
 This project will aim on building models with two basic aims.
